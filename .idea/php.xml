@@ -131,6 +131,11 @@
       <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/vendor/phar-io/version" />
       <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/endroid/qr-code-bundle" />
+      <path value="$PROJECT_DIR$/vendor/endroid/qr-code" />
+      <path value="$PROJECT_DIR$/vendor/endroid/installer" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
